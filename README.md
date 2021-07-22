@@ -2,11 +2,9 @@
 A different version of the Pokemon game 
 Link to Pokemon Game and Project Brief: https://github.com/ShekinahBa/pokemon/tree/main
 
-I was very excited to get the pokemon project and completed it myself to test what I have learnt so far. I was equally excited to see what working with a group would look like and I looked forward to seeing what I could learn from my team mates. The team decided to take the project in a different direction to make it more interesting and change the project to an animal game.
+I was very excited to get the pokemon project and completed it myself to test what I have learnt so far. I was equally excited to work in a group and see what I could learn from my team mates. The team decided to take the project in a different direction to make it more interesting and changed the project to an animal game.
 
-This was a great opportunity to work with a team and also fix some mistakes/bad practice that I had in my pokemon project. I had reached out to 2 amazing developers who immediately spotted a few of my sins which I've outlined bellow.
-
-I learn a lot working in a team, most importantly I learnt the importance of working with Git because we definately encounted some problems cycling through different solutions such as co-lab, Notion and even google docs! I also learnt the importance of TESTING! The code might not break but is it really doing what you it's suppose to? So, Test Driven Development (TDD) is coming up soon in the cirriculum I created for myself.
+This was a great opportunity to fix some mistakes/bad practice that I had in the pokemon project. I had reached out to 2 amazing developers who immediately spotted a few of my sins which I've outlined below.
 
 
 Bad Practice I fixed from the Pokemon game:
@@ -37,7 +35,10 @@ I used loops instead:
                                  
                                                                                 
  So much better right? (Thank you Alex!) 
+ 
+ I learned a lot working in a team, most importantly I learnt the importance of working with Git because we definately encounted some problems cycling through different solutions such as co-lab, Notion and even Google Docs! I also learnt the importance of TESTING! The code might not break but is it really doing what you it's suppose to? So, Test Driven Development (TDD) is coming up soon in the cirriculum I created for my self-learning.
+
 
  
- There are many things I could do to continue improving this project like adding a leaderboard and working with Pandas but I would like to choose a project of my own that's a bit more challenging. So keep an eye out
+There are many things I could do to continue improving this project like adding a leaderboard and working with Pandas but I would like to choose a project of my own that's a bit more challenging. So keep an eye out :) 
                                                                             
