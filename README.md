@@ -2,7 +2,7 @@
 A different version of the Pokemon game 
 Link to Pokemon Game and Project Brief: https://github.com/ShekinahBa/pokemon/tree/main
 
-After coding the pokemon game myself out of pure excitement, I remembered this was a group project! The team decided to take the project in a different direction to make it more exciting and change the project to an animal game.
+I was very excited to get the pokemon project and completed it myself to test what I have learnt so far. I was equally excited to see what working with a group would look like and I looked forward to seeing what I could learn from my team mates. The team decided to take the project in a different direction to make it more interesting and change the project to an animal game.
 
 This was a great opportunity to work with a team and also fix some mistakes/bad practice that I had in my pokemon project. I had reached out to 2 amazing developers who immediately spotted a few of my sins which I've outlined bellow.
 
