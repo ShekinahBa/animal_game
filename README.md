@@ -40,5 +40,5 @@ I used loops instead:
 
 
  
-There are many things I could do to continue improving this project like adding a leaderboard and working with Pandas but I would like to choose a project of my own that's a bit more challenging. So keep an eye out :) 
+There are many things I could do to continue improving this project such as adding a leaderboard using Pandas and doing analysis on the data collected. 
                                                                             
